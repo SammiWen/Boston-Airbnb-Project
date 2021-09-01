@@ -42,3 +42,5 @@ The findings for question 1 can be found at the post available [here](https://me
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Must give credit to kaggle for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/boston).  Otherwise, feel free to use the code here as you would like! 
+
+Link for the post in Medium: https://medium.com/@iri.xiuwen/do-i-need-to-select-a-superhost-when-using-airbnb-38fe09e3205e
